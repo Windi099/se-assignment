@@ -1,0 +1,25 @@
+START
+
+Choose food :
+if add food then
+	goto choose food
+else
+read orders
+add to shopping cart :
+end if
+
+harga : item*jumlah_orders
+if validasi = true then
+	goto payment method
+else
+end program
+end if
+payment method:
+if saldo tidak mencukupi then
+	goto payment method
+else
+waiting for orders
+end if
+
+END
+	
